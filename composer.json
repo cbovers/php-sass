@@ -2,7 +2,7 @@
     "name": "panique/php-sass",
     "type": "library",
     "description": "Compiles your SASS .scss files to .css every time your run your app (in development)",
-    "keywords": ["sass", "scss", "css"],
+    "keywords": ["sass", "scss", "css", "php"],
     "homepage": "https://github.com/panique/php-sass",
     "license": "MIT",
     "authors": [
